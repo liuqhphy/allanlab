@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Liuqihang group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Liu Qihang group  at Southern University of Science and Technology."
 sitemap: false
 permalink: /
 ---
